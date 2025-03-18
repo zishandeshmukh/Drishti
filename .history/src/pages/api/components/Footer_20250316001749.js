@@ -25,7 +25,7 @@ function Footer() {
         <>
             <div>
                 <Head>
-                    <title>Drishti 2025 | MESA | GCOEN </title>
+                    <title>Drishti 2023 | MESA | GCOEN </title>
                     <link rel="icon" href="https://i.postimg.cc/LXVx3CzZ/white-drishti-23.png" />
                     <link rel="preconnect" href="https://fonts.googleapis.com" />
                     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
