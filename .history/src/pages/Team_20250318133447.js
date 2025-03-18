@@ -112,7 +112,7 @@ function Team() {
 								</li>
 								<li class="honeycomb-cell">
 									<img class="honeycomb-cell__image" src="https://i.postimg.cc/1XF1DybM/17.png" />
-									<div class="honeycomb-cell__title">Nikshay Fulmare<small> Executive Member</small></div>
+									<div class="honeycomb-cell__title">Nikshay Fulmare<small>Member</small></div>
 								</li>
 							
 								<li class="honeycomb-cell honeycomb__placeholder"></li>
